@@ -1,5 +1,6 @@
 # Tic-tac-toe
 A simple piece of code, needed improving
+
 这段代码勉强能用，但是存在很多隐患
 自认为不足的地方：
 1.没有实现玩家自行选择‘X’或‘O’
